@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Testominals-App/static/css/main.d3a6c699.css",
-    "main.js": "/Testominals-App/static/js/main.aee10eaf.js",
+    "main.css": "/Testominals-App/static/css/main.d64abf63.css",
+    "main.js": "/Testominals-App/static/js/main.8fe9b3d2.js",
     "static/media/ganesh.jpg": "/Testominals-App/static/media/ganesh.49ed1959beff916a50e2.jpg",
     "static/media/prashant.jpg": "/Testominals-App/static/media/prashant.1a9b510d746154017226.jpg",
     "static/media/suhas.jpg": "/Testominals-App/static/media/suhas.f698e4a7ae0f9b266e0c.jpg",
     "static/media/aniruddha.jpg": "/Testominals-App/static/media/aniruddha.147cf8ac1b6510b9da12.jpg",
     "static/media/pratik.jpg": "/Testominals-App/static/media/pratik.dbe7ae2388e94afcfc26.jpg",
     "index.html": "/Testominals-App/index.html",
-    "main.d3a6c699.css.map": "/Testominals-App/static/css/main.d3a6c699.css.map",
-    "main.aee10eaf.js.map": "/Testominals-App/static/js/main.aee10eaf.js.map"
+    "main.d64abf63.css.map": "/Testominals-App/static/css/main.d64abf63.css.map",
+    "main.8fe9b3d2.js.map": "/Testominals-App/static/js/main.8fe9b3d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.d3a6c699.css",
-    "static/js/main.aee10eaf.js"
+    "static/css/main.d64abf63.css",
+    "static/js/main.8fe9b3d2.js"
   ]
 }
