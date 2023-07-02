@@ -9,4 +9,4 @@ Demo Link --> https://aniruddha-gade.github.io/Testominals-App/
 ![Alt Text](https://raw.githubusercontent.com/aniruddha-gade/Testominals-App/main/public/App%20Image2.png)
 
 
-Testominals-App with Dark mode    
+  
