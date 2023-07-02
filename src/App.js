@@ -13,8 +13,8 @@ const App = () => {
     const savedDarkMode = localStorage.getItem('dark');
 
     if (savedDarkMode) setDarkMode(JSON.parse(savedDarkMode))
-
-  }, [])
+  
+  },[setDarkMode])
 
 
 
